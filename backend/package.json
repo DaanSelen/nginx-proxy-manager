@@ -15,7 +15,7 @@
 	"dependencies": {
 		"@apidevtools/json-schema-ref-parser": "^15.3.5",
 		"ajv": "^8.20.0",
-		"archiver": "^7.0.1",
+		"archiver": "^8.0.0",
 		"batchflow": "^0.4.0",
 		"bcrypt": "^6.0.0",
 		"better-sqlite3": "^12.6.2",
