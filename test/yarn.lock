@@ -191,14 +191,14 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
-"@quobix/vacuum@^0.24.0":
-  version "0.24.0"
-  resolved "https://registry.yarnpkg.com/@quobix/vacuum/-/vacuum-0.24.0.tgz#7461d0f745e1a97827fc20b04f8c1701a5f1a0e0"
-  integrity sha512-Ee7c2XF6FY3bf3BzOCh/Ku2abxMN2iqYADHf933EkgAQ4u3x3eXXvlAa8UQo/lt7ZhWk0HHXQ55hnMhpbJsuPg==
+"@quobix/vacuum@^0.26.4":
+  version "0.26.4"
+  resolved "https://registry.yarnpkg.com/@quobix/vacuum/-/vacuum-0.26.4.tgz#b3b2af1cf14edffeb9e5fcdb02db8871d92c1b7c"
+  integrity sha512-jSfJJtN20ypOHHvN6tWPF1j0RkgjebVfHDuF+eiLV/Nt/QwQ1wJpEb4bVVJWh25cK4FiuoW7yNLSDwegQLqETA==
   dependencies:
     https-proxy-agent "^7.0.6"
     node-fetch "^3.3.2"
-    tar "^7.5.2"
+    tar "^7.5.13"
 
 "@types/esrecurse@^4.3.1":
   version "4.3.1"
@@ -2056,10 +2056,10 @@ systeminformation@^5.31.1:
   resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.31.1.tgz#5f88aa1db7470af87b6288baf1738603cafd1c4a"
   integrity sha512-6pRwxoGeV/roJYpsfcP6tN9mep6pPeCtXbUOCdVa0nme05Brwcwdge/fVNhIZn2wuUitAKZm4IYa7QjnRIa9zA==
 
-tar@^7.5.2:
-  version "7.5.9"
-  resolved "https://registry.yarnpkg.com/tar/-/tar-7.5.9.tgz#817ac12a54bc4362c51340875b8985d7dc9724b8"
-  integrity sha512-BTLcK0xsDh2+PUe9F6c2TlRp4zOOBMTkoQHQIWSIzI0R7KG46uEwq4OPk2W7bZcprBMsuaeFsqwYr7pjh6CuHg==
+tar@^7.5.13:
+  version "7.5.15"
+  resolved "https://registry.yarnpkg.com/tar/-/tar-7.5.15.tgz#afe6d1316cddf614a566e3813e42fe01aed46fee"
+  integrity sha512-dzGK0boVlC4W5QFuQN1EFSl3bIDYsk7Tj40U6eIBnK2k/8ml7TZ5agbI5j5+qnoVcAA+rNtBml8SEiLxZpNqRQ==
   dependencies:
     "@isaacs/fs-minipass" "^4.0.0"
     chownr "^3.0.0"
