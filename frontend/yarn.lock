@@ -462,10 +462,10 @@
   resolved "https://registry.npmjs.org/@floating-ui/utils/-/utils-0.2.10.tgz"
   integrity sha512-aGTxbpbg8/b5JfU1HXSrbH3wXZuLPJcNEcZQFMxLs3oSzgtVu6nFPkbbGGUvBcUjKV2YyB9Wxxabo+HEH9tcRQ==
 
-"@formatjs/cli@^6.13.0":
-  version "6.13.0"
-  resolved "https://registry.npmjs.org/@formatjs/cli/-/cli-6.13.0.tgz"
-  integrity sha512-bl4+FNg7S6RPNa9cSAE8HqdXu84n7LpzDdkDAPqS0sk58XNbY/1Le6GdWqCKzELWX+FhI58gyZtZecmWsZ+Bhg==
+"@formatjs/cli@^6.14.5":
+  version "6.14.5"
+  resolved "https://registry.yarnpkg.com/@formatjs/cli/-/cli-6.14.5.tgz#ebdce5ab85c59f561f0166761c62adb873316bc1"
+  integrity sha512-wmxwchqv7pVgKFmYugsgwLEflNd9a+CfHZk6Pc5bEix2ZDe4pWYm8EeUfWRTeB8UwFvy5U0277YS4wN6+YKDqQ==
 
 "@formatjs/ecma402-abstract@3.1.1":
   version "3.1.1"
