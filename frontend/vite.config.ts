@@ -46,8 +46,8 @@ export default defineConfig({
 		}),
 	],
 	resolve: {
-    	tsconfigPaths: true
-  	},
+		tsconfigPaths: true,
+	},
 	server: {
 		host: true,
 		port: 5173,
