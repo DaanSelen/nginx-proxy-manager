@@ -306,31 +306,31 @@
     "@formatjs/cli-native-linux-x64" "1.1.0"
     "@formatjs/cli-native-win32-x64" "1.1.1"
 
-"@formatjs/fast-memoize@3.1.5":
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/@formatjs/fast-memoize/-/fast-memoize-3.1.5.tgz#bdfe0b884cdecc25100534086f36a0b30bd15b3b"
-  integrity sha512-KLi3fan6WnCHmigd9pmEEN8Hid0v4wiFBW576M/d07KMWYecf1CvyMI3n34vCmHT4AoVqG2n702kiHbXjzZX2A==
+"@formatjs/fast-memoize@3.1.6":
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/@formatjs/fast-memoize/-/fast-memoize-3.1.6.tgz#fca16a7d60f89df48f506f130f58223d7d81c2a2"
+  integrity sha512-H5aexk1Le7T9TPmscacZ+1pR6CTa2n1wq+HDVGXhH8TzUlQQpeXzZs91dRtmFHrbeNbjPFPfQujUqm7MHgVoXQ==
 
-"@formatjs/icu-messageformat-parser@3.5.10":
-  version "3.5.10"
-  resolved "https://registry.yarnpkg.com/@formatjs/icu-messageformat-parser/-/icu-messageformat-parser-3.5.10.tgz#0ced2d6e8009eed57c6f0e7b4cc51dfea63b9bff"
-  integrity sha512-XeJihYLy1lCe19xfK1KWKG/betBOK2rB0luL8lSkjfvJj0zP+LTJvkC+RKd0jsFI8mWxN71LrarHSrEXE8xxOQ==
+"@formatjs/icu-messageformat-parser@3.5.11":
+  version "3.5.11"
+  resolved "https://registry.yarnpkg.com/@formatjs/icu-messageformat-parser/-/icu-messageformat-parser-3.5.11.tgz#2b68955ebb7ca1daa9145335c0d800a87b44c332"
+  integrity sha512-NVsuNsc2dUVG9+4HBJ/srScxtA/18LqGgwtop/tuN/OIBjVl6QA+0KhfZQddDD9sEh2LeVjLFPGVU3ixa3blcA==
   dependencies:
-    "@formatjs/icu-skeleton-parser" "2.1.9"
+    "@formatjs/icu-skeleton-parser" "2.1.10"
 
-"@formatjs/icu-skeleton-parser@2.1.9":
-  version "2.1.9"
-  resolved "https://registry.yarnpkg.com/@formatjs/icu-skeleton-parser/-/icu-skeleton-parser-2.1.9.tgz#746edae664b2ef148df1301845d1bb40000bbebb"
-  integrity sha512-rsxswgHMfU1zUgB2byc08fesf83wLGjFnzLCEtuf00mx2doiqc6pYrf67raI37XqdRcGUviQepk2UKGqpng74Q==
+"@formatjs/icu-skeleton-parser@2.1.10":
+  version "2.1.10"
+  resolved "https://registry.yarnpkg.com/@formatjs/icu-skeleton-parser/-/icu-skeleton-parser-2.1.10.tgz#a72859339c68ce29d595d27c481115a50b8b6527"
+  integrity sha512-XuSva+8ZGawk8VnD5VD6UeH8KarQ/Z022zgjHDoHmlNiAewstXuuzXc0Hk5pGFSdG+nNw5bfJKXqj1ZXHn9yUA==
 
-"@formatjs/intl@4.1.12":
-  version "4.1.12"
-  resolved "https://registry.yarnpkg.com/@formatjs/intl/-/intl-4.1.12.tgz#a29521f9bba79df1690c430f3d2cee8817778674"
-  integrity sha512-r288ut+p+CUQZSg+0gAT+D0i6xgrnoxE0B4HTbPY2zei/AtYmFhlu87BKjgCf1CweH4pZIbr152JFjxO8jVb1A==
+"@formatjs/intl@4.1.13":
+  version "4.1.13"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl/-/intl-4.1.13.tgz#21e4f87ae739ac20b1854dee3b30d776725f3298"
+  integrity sha512-dufOl09iREq8V+laVdlGuyoqNmuzqDvyeA3O3k+0XQfvKJgK8bBWFKqYYWejFMKeOij/4LuPKJA+LsshpXQ4sw==
   dependencies:
-    "@formatjs/fast-memoize" "3.1.5"
-    "@formatjs/icu-messageformat-parser" "3.5.10"
-    intl-messageformat "11.2.7"
+    "@formatjs/fast-memoize" "3.1.6"
+    "@formatjs/icu-messageformat-parser" "3.5.11"
+    intl-messageformat "11.2.8"
 
 "@jridgewell/gen-mapping@^0.3.12":
   version "0.3.13"
@@ -818,10 +818,10 @@
   resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-4.4.12.tgz#b5d76568485b02a307238270bfe96cb51ee2a044"
   integrity sha512-8TV6R3h2j7a91c+1DXdJi3Syo69zzIZbz7Lg5tORM5LEJG7X/E6a1V3drRyBRZq7/utz7A+c4OgYLiLcYGHG6w==
 
-"@types/react@*", "@types/react@>=16.9.11", "@types/react@^19.2.15":
-  version "19.2.15"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-19.2.15.tgz#9e2c6a4251a290f5c525c3143caa872fa6e01e0d"
-  integrity sha512-eRwcGNHve+E8qtEQSSRl6urh+rFop4v8gm6O8rGv25CodbvFdLjA1vVQ1KkiFE0w0UPOnb8tDiFKL5lp0rtY5Q==
+"@types/react@*", "@types/react@>=16.9.11", "@types/react@^19.2.17":
+  version "19.2.17"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-19.2.17.tgz#dccac365baa0f1734ec270ff4b51c89465e8dc7f"
+  integrity sha512-MXfmqaVPEVgkBT/aY0aGCkRWWtByiYQXo3xdQ8r5RzuFrPiRn8Gar2tQdXSUQ2GKV3bkXckek89V8wQBY2Q/Aw==
   dependencies:
     csstype "^3.2.2"
 
@@ -1075,10 +1075,10 @@ cosmiconfig@^7.0.0:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-country-flag-icons@^1.6.17:
-  version "1.6.17"
-  resolved "https://registry.yarnpkg.com/country-flag-icons/-/country-flag-icons-1.6.17.tgz#875cf35eb2a0d7fcb0f07166fed9fc65863e03f8"
-  integrity sha512-Nmik0289ZVZSI3c7mJR/amg6DyY7Z59b0sTFSKayeX72mHfPzCPJygwJs2pYgQULzuAyWeCUgwAJ+Dq8OR+JFw==
+country-flag-icons@^1.6.18:
+  version "1.6.18"
+  resolved "https://registry.yarnpkg.com/country-flag-icons/-/country-flag-icons-1.6.18.tgz#3e001ab1afac95c8d471e301c70daf690fed5d60"
+  integrity sha512-dHjIG2y2wigHYYTToUDba13BOgBqzIwBeG4TD329yHxn+dt2S6ogmRb3z2VsrX5/XOhJsbC59T9lbPagNAnPOA==
 
 css.escape@^1.5.1:
   version "1.5.1"
@@ -1448,13 +1448,13 @@ inline-style-parser@0.2.7:
   resolved "https://registry.yarnpkg.com/inline-style-parser/-/inline-style-parser-0.2.7.tgz#b1fc68bfc0313b8685745e4464e37f9376b9c909"
   integrity sha512-Nb2ctOyNR8DqQoR0OwRG95uNWIC0C1lCgf5Naz5H6Ji72KZ8OcFZLz2P5sNgwlyoJ8Yif11oMuYs5pBQa86csA==
 
-intl-messageformat@11.2.7:
-  version "11.2.7"
-  resolved "https://registry.yarnpkg.com/intl-messageformat/-/intl-messageformat-11.2.7.tgz#1d922a7df8964ec496c56f62928ef2134674bdae"
-  integrity sha512-+q6Ktg119nULZEpZ8YTuGOst9MyEzFtjD63FTGBlN1mLz0Z/MOUYDIvnpVKwq17eezIEh+cfJIebfJoCetpiNw==
+intl-messageformat@11.2.8:
+  version "11.2.8"
+  resolved "https://registry.yarnpkg.com/intl-messageformat/-/intl-messageformat-11.2.8.tgz#c5c5be3c3fa3d61e7956644d67b9e812ee50b4e3"
+  integrity sha512-l323RCl3qJDVQ8U9j74ut/hVMdg3VPsOHpVMDvFfz9qiq4dPO5ooVYFNVUzzrpgG39a+RLzcXyJb8VFgIU+tUA==
   dependencies:
-    "@formatjs/fast-memoize" "3.1.5"
-    "@formatjs/icu-messageformat-parser" "3.5.10"
+    "@formatjs/fast-memoize" "3.1.6"
+    "@formatjs/icu-messageformat-parser" "3.5.11"
 
 invariant@^2.2.4:
   version "2.2.4"
@@ -2173,10 +2173,10 @@ react-bootstrap@^2.10.10:
     uncontrollable "^7.2.1"
     warning "^4.0.3"
 
-react-dom@^19.2.6:
-  version "19.2.6"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.2.6.tgz#44a81b0bcca22da814c00847d09d01c8615529b7"
-  integrity sha512-0prMI+hvBbPjsWnxDLxlCGyM8PN6UuWjEUCYmZhO67xIV9Xasa/r/vDnq+Xyq4Lo27g8QSbO5YzARu0D1Sps3g==
+react-dom@^19.2.7:
+  version "19.2.7"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.2.7.tgz#0450dc9ae9ddbff76ef196401cd8b8c7fb466ccc"
+  integrity sha512-t0BRVXvbiE/o20Hfw669rLbMCDWtYZLvmJigy2f0MxsXF+71pxhR3xOkspmsO8h3ZlNzyibAmtCa3l4lYKk6gQ==
   dependencies:
     scheduler "^0.27.0"
 
@@ -2185,14 +2185,14 @@ react-fast-compare@^2.0.1:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-2.0.4.tgz#e84b4d455b0fec113e0402c329352715196f81f9"
   integrity sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==
 
-react-intl@^10.1.9:
-  version "10.1.9"
-  resolved "https://registry.yarnpkg.com/react-intl/-/react-intl-10.1.9.tgz#e256f0c28a049d391d421bf658e49fe137fb2cdf"
-  integrity sha512-FOWpTmwnZnAfz8JegRzyGnjUiuzLW3xJFjp/o8VR4HZAQ+Eg++YaeMhoUULLY+LMx7gZm3czaZEqcU4hntwerw==
+react-intl@^10.1.13:
+  version "10.1.13"
+  resolved "https://registry.yarnpkg.com/react-intl/-/react-intl-10.1.13.tgz#8c54f88a8d120abb1f212ec4524f11c3e7e8acba"
+  integrity sha512-3aKnIOIPN6CWsu3jqPpYMlJZ2U0Qnxhd42xGWQNdGIknK/gBudWOHSIx9vN4XKkITokJLr7YTgs4yLUGtbvP9g==
   dependencies:
-    "@formatjs/icu-messageformat-parser" "3.5.10"
-    "@formatjs/intl" "4.1.12"
-    intl-messageformat "11.2.7"
+    "@formatjs/icu-messageformat-parser" "3.5.11"
+    "@formatjs/intl" "4.1.13"
+    intl-messageformat "11.2.8"
 
 react-is@^16.13.1, react-is@^16.3.2, react-is@^16.7.0:
   version "16.13.1"
@@ -2273,10 +2273,10 @@ react-transition-group@^4.3.0, react-transition-group@^4.4.5:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-react@^19.2.6:
-  version "19.2.6"
-  resolved "https://registry.yarnpkg.com/react/-/react-19.2.6.tgz#3dadb8e12b2a7934c1d5317973e5dce1301f9a4d"
-  integrity sha512-sfWGGfavi0xr8Pg0sVsyHMAOziVYKgPLNrS7ig+ivMNb3wbCBw3KxtflsGBAwD3gYQlE/AEZsTLgToRrSCjb0Q==
+react@^19.2.7:
+  version "19.2.7"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.2.7.tgz#1f47a1bfc06f8ec885752c6f4af14369a9f8260b"
+  integrity sha512-HNe9WslTbXmFK8o8cmwgAeJFSBvt1bPdHCVKtaaV+WlAN36mpT4hcRpwbf3fY56ar2oIXzsBpOAiIRHAdY0OlQ==
 
 readdirp@^5.0.0:
   version "5.0.0"
